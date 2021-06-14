@@ -1,0 +1,5 @@
+C:/Users/saipa/source/repos/BIT_VM_Tool/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/saipa/source/repos/BIT_VM_Tool/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/saipa/source/repos/BIT_VM_Tool/out/build/x64-Debug/BIT_VM_Tool/CMakeFiles/BIT_VM_Tool.dir
+C:/Users/saipa/source/repos/BIT_VM_Tool/out/build/x64-Debug/BIT_VM_Tool/CMakeFiles/edit_cache.dir
+C:/Users/saipa/source/repos/BIT_VM_Tool/out/build/x64-Debug/BIT_VM_Tool/CMakeFiles/rebuild_cache.dir
